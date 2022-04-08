@@ -8,14 +8,14 @@ _Software developer based in Madrid, Spain_
 
 ## 🧑‍💻 Technical Experience
 
-**Full stack developer** @ [Dimatica](https://www.dimaticasoftware.com/) _(February 2021 - Present)_
+**Full stack developer** @ [Dimatica](https://www.dimaticasoftware.com/) _(February 2021 - March 2022)_
 
 Working for [Nexplore](https://www.nexplore.com/) developing a management software (focusing on payments and invoices) for construction
 
 - Create backend with Graphql and Node.js
 - Developing UI tool to handle projects and invoices
 
-**__Technologies used:__** Typescript, Angular, Node.js, Hasura, Graphql, Express, Jest
+**_Technologies used:_** Typescript, Angular, Node.js, Hasura, Graphql, Express, Jest
 
 **Full stack developer** @ [OSP](https://www.osp.de/) _(July 2020 - February 2021)_
 
@@ -24,7 +24,7 @@ Working for Hermes a delivery company
 - Extend and improve internal APIs
 - Help to start a reusable HTML web component library
 
-**__Technologies used:__** Typescript, Node.js, MongoDB, Express, Hybrid.js, Jest
+**_Technologies used:_** Typescript, Node.js, MongoDB, Express, Hybrid.js, Jest
 
 **JavaScript developer** @ Yudonpay _(February 2020 - May 2020)_
 
@@ -34,7 +34,7 @@ Start up which handled all the discount cards in order to get the most of all di
 - Create the first CI/CD for the JavaScript developments
 - Start to work with private NPM and split code into modules
 
-**__Technologies used:__** JavaScript, Node.js, MongoDB, NPM, Lerna, AWS (queue)
+**_Technologies used:_** JavaScript, Node.js, MongoDB, NPM, Lerna, AWS (queue)
 
 **JavaScript developer** @ [Medux](https://medux.com/es/) _(February 2021 - February 2020)_
 
@@ -46,7 +46,7 @@ Measure the signal quality from the point of view of the user
 - Small tasks in the web tool
 - Help to improve the architecture
 
-**__Technologies used:__** JavaScript, Node.js, HapiJS, NPM, Lerna, SenecaJS, Docker
+**_Technologies used:_** JavaScript, Node.js, HapiJS, NPM, Lerna, SenecaJS, Docker
 
 **Full stack developer** @ [GFT](https://www.gft.com/es/es) _(April 2017 to August 2017)_
 
@@ -54,7 +54,7 @@ Working for [Verti](https://seguros.verti.es/) an insurance company
 
 - Automatize internal process such as deployments, minify web applications
 
-**__Technologies used:__** JavaScript, Node.js, AngularJS
+**_Technologies used:_** JavaScript, Node.js, AngularJS
 
 **Senior CRM consultant** @ [Minsait](https://www.minsait.com/es) _(April 2016 to April 2017)_
 
@@ -64,7 +64,7 @@ Spin off from Indra focusing into digitalize companies and help them to improve 
 - Help users to deliver the best offers and crete oportunites with the CRM
 - Joining a freshly chatbot team to explore integration with CRMs
 
-**__Technologies used:__** Dynamics CRM, C#, Node.js, Microsoft Bot Framework
+**_Technologies used:_** Dynamics CRM, C#, Node.js, Microsoft Bot Framework
 
 **Software developer** @ [Marco Aldany](https://www.marcoaldany.com/) _(January 2014 - April 2016)_
 
@@ -74,7 +74,7 @@ Hair dress company which develops and explores many different (an new) tools to 
 - Remote distribute control access to different shops (gyms, yoga centers...) It can work with the point of sales to granted access permission to the clients depending on their status
 - Booking web system for classes
 
-**__Technologies used:__** JavaScript, Node.js, PHP, material design, Raspberry
+**_Technologies used:_** JavaScript, Node.js, PHP, material design, Raspberry
 
 **CRM consultant** @ [Indra](https://www.indracompany.com/en) _(July 2011 - December 2013)_
 
@@ -84,12 +84,12 @@ It helps companies to power their business up with different strategies and tool
 - Upgrades from CRM 4 to CRM 2011
 - Customize business process (inside CRM or outside) with JavaScript or C# custom developments
 
-**__Technologies used:__** Microsoft Dynamics CRM, C#, Javascript
+**_Technologies used:_** Microsoft Dynamics CRM, C#, Javascript
 
 ## 💬 Languages
 
-**Spanish**: Native
-**English**: High level
+**Spanish**: Native<br>
+**English**: High level<br>
 **French:**: Basic level
 
 ## 👨‍🎓 Education
