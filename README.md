@@ -8,6 +8,12 @@ _Software developer based in Madrid, Spain_
 
 ## 🧑‍💻 Technical Experience
 
+**Senior Frontend Developer** @ [align](https://www.aligntech.com/) _(May 2022)_
+
+Developing and improving web tools in order to make user's work easier
+
+**_Technologies used:_** Typescript, React, Node.js
+
 **Full stack developer** @ [Dimatica](https://www.dimaticasoftware.com/) _(February 2021 - March 2022)_
 
 Working for [Nexplore](https://www.nexplore.com/) developing a management software (focusing on payments and invoices) for construction
